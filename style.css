@@ -1,0 +1,136 @@
+.hdnav {
+    height: 180x;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.imnav {
+    width: 150px;
+    height: 150px;
+}
+
+nav a {
+    font-size: 35px;
+    padding: 50px 20px 0px 15px;
+    justify-content: center;
+    font-family: arial;
+    text-decoration: none;
+    border-radius: 15px;
+    color: rgb(255, 255, 255);
+}
+
+header a:hover{
+    color: orange;
+    transition: 0.3s;
+}
+
+.decore {
+    background-color: orange;
+}
+
+h1 {
+    font-family: arial;
+    margin: 50px 0px 0px 50px;
+}
+
+.kyratina {
+    width: 400px;
+    height: 300px;
+    margin: 50px 00px 0px 150px ;
+    border-radius: 15px;
+}
+
+h2 {
+    font-family: arial;
+}
+
+div h2 {
+    display: flex;
+    align-items: flex-end;
+    margin: 10px 0px 0px 170px;
+}
+
+div a {
+    color: rgb(153, 47, 47);
+    background-color: rgba(255, 127, 80, 0.308);
+    font-size: 30px;
+    border-radius: 15px;
+    text-decoration: none;
+    margin-left: 500px;
+}
+
+div a:hover {
+    background-color: coral;
+    transition:0.5s;
+}
+
+.royal {
+    width: 400px;
+    height: 300px;
+    margin: 50px 00px 0px 150px ;
+    border-radius: 15px;    
+    position: relative;
+}
+
+.govadina {
+    width: 400px;
+    height: 300px;
+    margin: 50px 00px 0px 150px ;
+    border-radius: 15px;       
+}
+
+
+.bolshoypapa{
+    width: 400px;
+    height: 300px;
+    margin: 50px 00px 0px 150px ;
+    border-radius: 15px;          
+}
+
+.salo {
+    width: 400px;
+    height: 300px;
+    margin: 50px 00px 0px 150px ;
+    border-radius: 15px;       
+}
+
+.Jhonny{
+    width: 400px;
+    height: 300px;
+    margin: 50px 00px 0px 150px ;
+    border-radius: 15px;       
+}
+
+.ftnav {
+    background-color: rgb(18, 18, 18);
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer a{
+    color: rgb(102, 102, 102);
+}
+
+footer a:hover{
+    color: white;
+    transition: 0.3s;
+}
+
+.asside {
+    background-color: darkorange;
+    height: 100px;
+    font-size: 20px;
+    justify-content: center;
+    padding: 10px 0px 0px 50px;
+    margin-top: 30px;
+}
+
+.lyshnee {
+    color: black;
+}
+
+.lyshnee2 {
+    color: rgb(18, 18, 18;
+}
